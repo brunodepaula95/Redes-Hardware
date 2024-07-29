@@ -1,5 +1,0 @@
-
-Teste de commit Git Bash
-Mais uma linha
-Coloquei mais uma linha
-atualizei
