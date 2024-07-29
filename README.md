@@ -9,9 +9,13 @@ Resumos - Parte 1
 Começando pelas classes IP, elas foram criadas para definir a quantidade de endereços na rede como um todo. Atualmente em IPV4, existem 5 classes sendo elas:
 
 **Classe A** -  Vai dos números 0 até 127
+
 **Classe B** -  Vai dos números 128 até 191
+
 **Classe C** -  Vai dos números 192 até 223
+
 **Classe D** -  Vai dos números 224 até 239
+
 **Classe E** -  Vai dos números 240 até 255
 
 As numerações iniciais do endereço IP é que definem a classe a qual ele pertence, mas, nem todos os endereços podem ser utilizados. Existem alguns que são privados e restritos. Como por exemplo o **10.0.0.0**, **172.16.0.0** e **192.168.0.0** são numeros privados, já os números **127.0.0.0** e **169.254.0.0** são números reservados, se você der um comando no sem prompt de comando da seguinte forma :
