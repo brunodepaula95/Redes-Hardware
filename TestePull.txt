@@ -1,8 +1,5 @@
-<<<<<<< HEAD
+
 Teste de commit Git Bash
 Mais uma linha
 Coloquei mais uma linha
-=======
-Teste de commit Git Bash
-Mais uma linha
->>>>>>> 54ecf5d5bba73a7ad893ee2f71c15f46fc0edb1b
+atualizei
