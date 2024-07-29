@@ -1,0 +1,2 @@
+Teste de commit Git Bash
+Mais uma linha
