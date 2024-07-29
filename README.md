@@ -36,6 +36,8 @@ A máscara é constituída da seguinte forma:
 **255	.	255	.	255	.	255**
 
 A mesma máscara em binário:
+
 11111111	.	11111111	.	.11111111	.	11111111
+
 Como citado acima é composta por 4 octetos, que formam a máscara, ela possui o número 255 pois é o ultimo endereço possível em uma rede, e quando convertida para binário é representada por 11111111 por conta da soma da conversão. 
 
